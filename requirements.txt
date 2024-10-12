@@ -1,0 +1,15 @@
+PyQt5
+PyQt5-Qt5
+PyQt5_sip
+black
+pandas
+screeninfo
+openpyxl
+fake-useragent
+pyinstaller
+setuptools
+numpy
+babel
+seleniumbase
+selenium
+fuzzywuzzy
